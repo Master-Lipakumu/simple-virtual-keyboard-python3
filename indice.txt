@@ -1,0 +1,1 @@
+avant tout installer kivy après avoir activate l'environnement de travaille qui ce trouve dans claviervirtual Scripts
